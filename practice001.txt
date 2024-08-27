@@ -1,1 +1,2 @@
 Practice mode 
+This is the added text to 2nd git update
